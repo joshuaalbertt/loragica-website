@@ -130,7 +130,7 @@ export default function LegalModal({ isOpen, onClose, initialTab = 'privacy', la
                           <p>
                             <strong className="text-brand-accent">2.2 Data teknis otomatis</strong>
                             <br />
-                            Karena Situs di-hosting di <strong className="text-brand-accent">Cloudflare Pages</strong>, sebagian data teknis dasar (seperti alamat IP, jenis browser, halaman yang diakses, dan waktu kunjungan) dapat tercatat secara otomatis melalui infrastruktur Cloudflare untuk keperluan keamanan dan performa jaringan. Kami sendiri tidak menjalankan sistem analitik pelacakan pihak ketiga (seperti Google Analytics).
+                            Karena Situs di-hosting di <strong className="text-brand-accent">GitHub Pages</strong>, sebagian data teknis dasar (seperti alamat IP, jenis browser, halaman yang diakses, dan waktu kunjungan) dapat tercatat secara otomatis melalui infrastruktur GitHub untuk keperluan keamanan dan performa jaringan. Kami sendiri tidak menjalankan sistem analitik pelacakan pihak ketiga (seperti Google Analytics).
                           </p>
 
                           <p>
@@ -168,7 +168,7 @@ export default function LegalModal({ isOpen, onClose, initialTab = 'privacy', la
                           5. Pihak Ketiga
                         </h4>
                         <p>
-                          Situs ini di-hosting menggunakan <strong className="text-brand-accent">Cloudflare Pages</strong>. Penggunaan Situs ini secara tidak langsung tunduk pula pada kebijakan privasi pihak ketiga untuk hal-hal yang berkaitan dengan infrastruktur jaringan mereka.
+                          Situs ini di-hosting menggunakan <strong className="text-brand-accent">GitHub Pages</strong>. Penggunaan Situs ini secara tidak langsung tunduk pula pada kebijakan privasi pihak ketiga untuk hal-hal yang berkaitan dengan infrastruktur jaringan mereka.
                         </p>
                       </div>
 
@@ -237,7 +237,7 @@ export default function LegalModal({ isOpen, onClose, initialTab = 'privacy', la
                           <p>
                             <strong className="text-brand-accent">2.2 Automatic technical data</strong>
                             <br />
-                            Because the Site is hosted on <strong className="text-brand-accent">Cloudflare Pages</strong>, some basic technical data (like IP addresses, browser types, accessed pages, and visit timestamps) may be automatically logged through Cloudflare&apos;s infrastructure for network security and performance purposes. We do not run third-party tracking analytics systems ourselves (such as Google Analytics).
+                            Because the Site is hosted on <strong className="text-brand-accent">GitHub Pages</strong>, some basic technical data (like IP addresses, browser types, accessed pages, and visit timestamps) may be automatically logged through GitHub&apos;s infrastructure for network security and performance purposes. We do not run third-party tracking analytics systems ourselves (such as Google Analytics).
                           </p>
 
                           <p>
@@ -275,7 +275,7 @@ export default function LegalModal({ isOpen, onClose, initialTab = 'privacy', la
                           5. Third Parties
                         </h4>
                         <p>
-                          This Site is hosted on <strong className="text-brand-accent">Cloudflare Pages</strong>. Use of this Site is indirectly subject to third-party privacy policies regarding network infrastructure.
+                          This Site is hosted on <strong className="text-brand-accent">GitHub Pages</strong>. Use of this Site is indirectly subject to third-party privacy policies regarding network infrastructure.
                         </p>
                       </div>
 
