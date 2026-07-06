@@ -5,7 +5,7 @@
 <hr>
 
 <div align="center" style="line-height: 1.5;">
-  <a href="joshuaalbertt"><img alt="Website"
+  <a href="https://joshuaalbertt.github.io/loragica-website/"><img alt="Website"
     src="https://img.shields.io/badge/🌐%20Website-1D3557?color=1D3557&logoColor=white"/></a>
   <a href="https://github.com/joshuaalbertt"><img alt="Founder's GitHub"
     src="https://img.shields.io/badge/🐙%20GitHub-181717?color=181717&logoColor=white"/></a>
