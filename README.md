@@ -7,7 +7,7 @@
 <div align="center" style="line-height: 1.5;">
   <a href="https://joshuaalbertt.github.io/loragica-website/"><img alt="Website"
     src="https://img.shields.io/badge/🌐%20Website-1D3557?color=1D3557&logoColor=white"/></a>
-  <a href="https://github.com/joshuaalbertt"><img alt="Founder's GitHub"
+  <a href="https://github.com/joshuaalbertt"><img alt="GitHub"
     src="https://img.shields.io/badge/🐙%20GitHub-181717?color=181717&logoColor=white"/></a>
   <a href="https://share.streamlit.io/user/officialloragica"><img alt="Streamlit Apps"
     src="https://img.shields.io/badge/🎈%20Streamlit-FF4B4B?color=FF4B4B&logoColor=white"/></a>
