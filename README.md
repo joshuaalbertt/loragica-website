@@ -5,9 +5,9 @@
 <hr>
 
 <div align="center" style="line-height: 1.5;">
-  <a href="https://loragica.github.io/loragica-website"><img alt="Website"
+  <a href="https://joshuaalbertt.github.io/loragica-website/"><img alt="Website"
     src="https://img.shields.io/badge/🌐%20Website-1D3557?color=1D3557&logoColor=white"/></a>
-  <a href="https://github.com/Loragica"><img alt="GitHub Organization"
+  <a href="https://github.com/joshuaalbertt"><img alt="GitHub"
     src="https://img.shields.io/badge/🐙%20GitHub-181717?color=181717&logoColor=white"/></a>
   <a href="https://share.streamlit.io/user/officialloragica"><img alt="Streamlit Apps"
     src="https://img.shields.io/badge/🎈%20Streamlit-FF4B4B?color=FF4B4B&logoColor=white"/></a>
@@ -24,9 +24,9 @@
   <a href="https://www.linkedin.com/company/playloragica"><img alt="LinkedIn"
     src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&color=0A66C2"/></a>
   <br>
-  <a href="https://github.com/Loragica/loragica-legal/blob/main/LICENSE"><img alt="Code License"
+  <a href="https://github.com/joshuaalbertt/loragica-legal/blob/main/LICENSE"><img alt="Code License"
     src="https://img.shields.io/badge/Code_License-AGPL--3.0-534AB7?&color=534AB7"/></a>
-  <a href="https://github.com/Loragica/loragica-legal/blob/main/TRADEMARK.md"><img alt="Brand Policy"
+  <a href="https://github.com/joshuaalbertt/loragica-legal/blob/main/TRADEMARK.md"><img alt="Brand Policy"
     src="https://img.shields.io/badge/Brand_Policy-Protected-1D9E75?&color=1D9E75"/></a>
 </div>
 
