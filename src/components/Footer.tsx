@@ -68,7 +68,7 @@ export default function Footer({ onToast, onShowDonation, onSelectWaveType, onSh
         setIsSubmitted(true);
         onToast(lang === 'id' ? 'Email berhasil terdaftar!' : 'Subscribed successfully!');
         setEmail('');
-        
+
         setTimeout(() => {
           setIsSubmitted(false);
         }, 4000);
@@ -259,7 +259,7 @@ export default function Footer({ onToast, onShowDonation, onSelectWaveType, onSh
               {
                 icon: <Github size={14} className="stroke-[1.75]" />,
                 label: "GitHub",
-                href: "https://github.com/Loragica",
+                href: "https://github.com/joshuaalbertt",
                 hoverStyle: "hover:text-brand-offwhite hover:border-brand-offwhite/40 hover:bg-white/5"
               }
             ].map((social, idx) => (
@@ -278,8 +278,8 @@ export default function Footer({ onToast, onShowDonation, onSelectWaveType, onSh
           </div>
 
           <div className="flex flex-wrap gap-6 justify-center">
-            <a 
-              href="https://github.com/officialloragica/loragica-legal" 
+            <a
+              href="https://github.com/joshuaalbertt/loragica-legal"
               target="_blank"
               rel="noopener noreferrer"
               onClick={(e) => {
@@ -291,8 +291,8 @@ export default function Footer({ onToast, onShowDonation, onSelectWaveType, onSh
               {t.footer_privacy}
               <span className="absolute bottom-0 left-0 w-0 h-[1.5px] bg-[#bba078] transition-all duration-300 group-hover:w-full"></span>
             </a>
-            <a 
-              href="https://github.com/officialloragica/loragica-legal" 
+            <a
+              href="https://github.com/joshuaalbertt/loragica-legal"
               target="_blank"
               rel="noopener noreferrer"
               onClick={(e) => {
