@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dark-horizontal-logo.png" width="55%" alt="Loragica" />
+  <img src="banner-logo.png" width="55%" alt="Loragica" />
 </div>
 
 <hr>
@@ -38,7 +38,7 @@
 
 ## 🌟 Vision & Philosophy
 
-Modern education often separates abstract theoretical equations from physical and visual intuition. **Loragica** is built on the belief that true learning occurs when students can manipulate, stress-test, and observe physical models in real-time. 
+Modern education often separates abstract theoretical equations from physical and visual intuition. **Loragica** is built on the belief that true learning occurs when students can manipulate, stress-test, and observe physical models in real-time.
 
 By utilizing interactive, lightweight, high-performance web canvas technologies and real-time mathematical engines, Loragica transforms traditional static curricula into an open-access sandbox of discovery.
 
